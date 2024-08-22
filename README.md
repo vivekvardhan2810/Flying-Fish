@@ -25,4 +25,5 @@ Flying Fish is an exhilarating game where players guide a fish through airborne 
 <br>
 
 ## *Screenshots 📸*
-![Flying_Fish](https://github.com/user-attachments/assets/abcd778b-f8c1-4670-ac23-70e6f6373c5f)
+
+![Flying_Fish](https://github.com/user-attachments/assets/f5cc1713-e931-4d46-a045-efd53d594653)
